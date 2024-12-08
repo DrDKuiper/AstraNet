@@ -24,8 +24,9 @@ AstraNet is an advanced, real-time network traffic analysis tool that captures a
 # ⚙️ Installation
     
 # Clone this repository:
-    git clone <repository-url>
+    git clone https://github.com/Lhx6452/AstraNet.git
     cd AstraNet
+    cd Scripts
 
 # Install the necessary dependencies:
     pip3 install scapy
