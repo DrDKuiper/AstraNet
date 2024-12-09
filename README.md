@@ -24,7 +24,7 @@ AstraNet is an advanced, real-time network traffic analysis tool that captures a
 # ⚙️ Installation
     
 # Clone this repository:
-    git clone https://github.com/Lhx6452/AstraNet.git
+    git clone https://github.com/DrDKuiper/AstraNet.git
     cd AstraNet
     cd Scripts
 
